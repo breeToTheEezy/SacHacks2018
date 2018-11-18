@@ -1,4 +1,5 @@
 # Sachacks2018
+App name: Game Plan
 Code: David and Jacob
 & Design: June and Briana 
 
